@@ -19,7 +19,7 @@ This project analyzes customer reviews for various products using advanced natur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bharathbhaskr/Product-Review-Analysis-LLM-GenAI.git
+   git clone https://github.com/Keerthi85-creator/LLM_APPLIED_Project.git
    ```
 2. Install the necessary Python packages:
    ```bash
